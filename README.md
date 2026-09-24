@@ -1,2 +1,8 @@
-# KSR_PYTHON_JAVA_FULL_STACK_ASSIGNMENTS
-Assignments and practice work completed as part of the KSR course.
+Your Name : M.Supriya
+Course Name : sql,phyton,java,git,github
+Assignment Number : 2 
+1. I learned how to create a Git repository.
+2. I learned how to create and switch branches.
+3. I learned how to stage files using git add.
+4. I learned how to save changes using git commit.
+5. I learned how to push changes to GitHub.
