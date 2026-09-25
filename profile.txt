@@ -1,0 +1,4 @@
+Name: M.supriya
+course : java,python,git,github
+batch :6pm batch
+short introduction: Hi, I’m Supriya. I have 3+ years of experience in Software Testing, mainly in manual and functional testing. I have experience in web and mobile application testing, API testing using Postman, defect tracking using Jira, and Agile methodology. I have worked on the Uber project, testing Driver, Rider, and Uber Eats applications. I also have basic knowledge of automation using Selenium and Playwright with TypeScript. I’m currently looking for an opportunity where I can apply my testing skills and continue growing in QA and automation.
